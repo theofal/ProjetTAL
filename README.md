@@ -4,7 +4,7 @@
 
 Ce projet est a été réalisé par Loubna Khennou et Théo Falgayrettes dans le cadre de notre L3 en informatique appliquée à la linguistique. Il s'agit d'un logiciel de détection de la langue d'un texte. 
 
-Nous savons que, par exemple, la lettre "w" apparait bien plus souvent dans les textes de langue anglaise que dans les textes français. La fréquence des caractères n'est donc pas le même selon les différentes langues.
+Nous savons que, par exemple, la lettre "w" apparait bien plus souvent dans les textes de langue anglaise que dans les textes français. La fréquence des caractères n'est donc pas la même selon les différentes langues.
 Ce logiciel analyse un mot, un paragraphe ou un fichier texte et compare l'occurence des caractères avec une base de données déjà présente. Ceci dans le but d'en déterminer la langue.
 
 Les langues prises en charge actuellement sont le français, l'anglais, l'espagnol et l'italien.
