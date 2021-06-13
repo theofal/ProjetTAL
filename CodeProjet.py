@@ -285,4 +285,4 @@ compare_cos(listcos_ENG_newtext3, listcos_FR_newtext3, listcos_ESP_newtext3,
             listcos_ITA_newtext3, 3)
 
 # Ajoute la liste d'accuracy au Google Sheet
-gdocData.updateGdoc(listGdoc)
+# gdocData.updateGdoc(listGdoc)
