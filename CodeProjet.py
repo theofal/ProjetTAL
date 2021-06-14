@@ -24,7 +24,7 @@ textFR = textFR2.read()
 textFR2.close()
 
 # Utile pour la separation du corpus en "separation" (n) caracteres
-separation = gdocData.separation
+separation = 20
 listGdoc = [[separation]]
 
 
