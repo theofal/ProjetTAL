@@ -34,9 +34,6 @@ def getDataGdoc():
     return values
 
 
-separation = 75
-
-
 def updateGdoc(list1):
     # Needs a list of lists and the name of the Google tab as string
     # Update the Google Sheet with a list of lists
