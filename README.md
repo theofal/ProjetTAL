@@ -27,8 +27,8 @@ Une fois le fichier téléchargé, rendez vous dans celui-ci via le terminal.
 
 Il existe deux manières d'analyser un texte :
 
--- Analyse d'un fichier .txt : Python CodeProjet.py ~/monFichier.txt
--- Analyse d'un mot ou paragraphe en écriture libre: Python CodeProjet.py "mon paragraphe à analyser"
+-- Analyse d'un fichier .txt : Python code_projet.py ~/monFichier.txt
+-- Analyse d'un mot ou paragraphe en écriture libre: Python code_projet.py "mon paragraphe à analyser"
 
 -  **Les technologies utilisées**
 
