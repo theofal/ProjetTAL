@@ -80,7 +80,6 @@ def text_tokenized(texte):
     return list_of_sentences
 
 
-
 # Separation en phrases
 # def text_tokenized(texte):
 #     nouveautexte = texte.replace(". ", ".")
